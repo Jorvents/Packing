@@ -1,0 +1,15 @@
+C:\Users\Jorven\Desktop\Coder\C#\Packing\Packing\bin\net7.0\publish\schedule\info.json
+C:\Users\Jorven\Desktop\Coder\C#\Packing\Packing\bin\net7.0\publish\sprites\arrow.png
+C:\Users\Jorven\Desktop\Coder\C#\Packing\Packing\bin\net7.0\publish\sprites\bin.png
+C:\Users\Jorven\Desktop\Coder\C#\Packing\Packing\bin\net7.0\publish\sprites\extra.png
+C:\Users\Jorven\Desktop\Coder\C#\Packing\Packing\bin\net7.0\publish\sprites\needed.png
+C:\Users\Jorven\Desktop\Coder\C#\Packing\Packing\bin\net7.0\publish\Packing.exe
+C:\Users\Jorven\Desktop\Coder\C#\Packing\Packing\bin\net7.0\publish\Packing.dll
+C:\Users\Jorven\Desktop\Coder\C#\Packing\Packing\bin\net7.0\publish\Packing.deps.json
+C:\Users\Jorven\Desktop\Coder\C#\Packing\Packing\bin\net7.0\publish\Packing.runtimeconfig.json
+C:\Users\Jorven\Desktop\Coder\C#\Packing\Packing\bin\net7.0\publish\Packing.pdb
+C:\Users\Jorven\Desktop\Coder\C#\Packing\Packing\bin\net7.0\publish\Raylib-cs.dll
+C:\Users\Jorven\Desktop\Coder\C#\Packing\Packing\bin\net7.0\publish\runtimes\linux-x64\native\libraylib.so
+C:\Users\Jorven\Desktop\Coder\C#\Packing\Packing\bin\net7.0\publish\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\Jorven\Desktop\Coder\C#\Packing\Packing\bin\net7.0\publish\runtimes\win-x64\native\raylib.dll
+C:\Users\Jorven\Desktop\Coder\C#\Packing\Packing\bin\net7.0\publish\runtimes\win-x86\native\raylib.dll
