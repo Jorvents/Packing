@@ -130,11 +130,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jorven\\Desktop\\Coder\\C#\\Packing\\github\\Packing\\src\\Packing.csproj",
+      "projectUniqueName": "C:\\Users\\Jorven\\Desktop\\Coder\\C#\\Packing\\Packing\\Packing.csproj",
       "projectName": "Packing",
-      "projectPath": "C:\\Users\\Jorven\\Desktop\\Coder\\C#\\Packing\\github\\Packing\\src\\Packing.csproj",
+      "projectPath": "C:\\Users\\Jorven\\Desktop\\Coder\\C#\\Packing\\Packing\\Packing.csproj",
       "packagesPath": "C:\\Users\\Jorven\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jorven\\Desktop\\Coder\\C#\\Packing\\github\\Packing\\src\\obj\\",
+      "outputPath": "C:\\Users\\Jorven\\Desktop\\Coder\\C#\\Packing\\Packing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

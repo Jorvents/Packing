@@ -143,6 +143,12 @@ public class Show
             }
         }
 
+        Monday = Monday.Distinct().ToArray();
+        Tuesday = Tuesday.Distinct().ToArray();
+        Wednesday = Wednesday.Distinct().ToArray();
+        Thursday = Thursday.Distinct().ToArray();
+        Friday = Friday.Distinct().ToArray();
+
         ScheduleParse scheduleparse = new ScheduleParse()
         {
             Monday = Monday,
